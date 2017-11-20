@@ -13,7 +13,7 @@ from torch.autograd import Variable
 """
 NOTICE:
     BasicBlock_B is not implemented
-    The Paper is suggest to use the BasicBlock_C
+    BasicBlock_C is recommendation
     The full architecture consist of BasicBlock_A is not implemented.
 """
 
